@@ -14,7 +14,6 @@
 
 @interface LUNTutorialViewController : UIViewController {
     
-@protected
     /**
      *  @brief view of static background, defined by dataSource
      */
